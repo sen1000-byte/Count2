@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33247DB4246AD20800E54CB2 /* Snapseed 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 33247DB3246AD20800E54CB2 /* Snapseed 11.png */; };
 		3394F43024696DDD004D1099 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3394F42F24696DDD004D1099 /* AppDelegate.swift */; };
 		3394F43224696DDD004D1099 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3394F43124696DDD004D1099 /* SceneDelegate.swift */; };
 		3394F43424696DDD004D1099 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3394F43324696DDD004D1099 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		33247DB3246AD20800E54CB2 /* Snapseed 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Snapseed 11.png"; sourceTree = "<group>"; };
 		3394F42C24696DDD004D1099 /* Count.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Count.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3394F42F24696DDD004D1099 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3394F43124696DDD004D1099 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		3394F42E24696DDD004D1099 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				33247DB3246AD20800E54CB2 /* Snapseed 11.png */,
 				3394F42F24696DDD004D1099 /* AppDelegate.swift */,
 				3394F43124696DDD004D1099 /* SceneDelegate.swift */,
 				3394F43324696DDD004D1099 /* ViewController.swift */,
@@ -235,6 +238,7 @@
 				3394F43C24696DE4004D1099 /* LaunchScreen.storyboard in Resources */,
 				3394F43924696DE4004D1099 /* Assets.xcassets in Resources */,
 				3394F43724696DDE004D1099 /* Main.storyboard in Resources */,
+				33247DB4246AD20800E54CB2 /* Snapseed 11.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
